@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidApiDemos.iml" filepath="$PROJECT_DIR$/AndroidApiDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apiDemos/apiDemos.iml" filepath="$PROJECT_DIR$/apiDemos/apiDemos.iml" />
+    </modules>
+  </component>
+</project>
